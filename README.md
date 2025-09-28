@@ -2,7 +2,7 @@
 
 Starter for making your own Package Listings, including automation for building and publishing them.
 
-Once you're all set up, you'll be able to update the [`source.json`](source.json) file, and generate a listing which works in the VPM for delivering updates for all the listed packages.
+Once you're all set up, you'll be able to update the [`source.json`](source.json) file, and generate a listing which works in the VPM for delivering updates for all the listed packages. 
 
 ## ▶ Getting Started
 
