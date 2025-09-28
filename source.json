@@ -15,7 +15,7 @@
     "bannerUrl":"banner.png",
     "packages":[
         {
-            "name":"com.vrchat.udonsharp",
+            "name":"com.rkfqqqq.volLight",
             "releases":[
                 "https://rkfqqqq.github.io/Volumetric_Lights_2_v10.3.1.zip"
             ]
