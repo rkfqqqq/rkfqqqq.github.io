@@ -1,6 +1,6 @@
 {
     "name":"VOL",
-    "id":"com.vrchat.VOL",
+    "id":"com.rkfqqqq.VOL",
     "url":"https://rkfqqqq.github.io/index.json",
     "author":{
         "email":"a@a.com",
@@ -15,7 +15,7 @@
     "bannerUrl":"banner.png",
     "packages":[
         {
-            "name":"com.rkfqqqq.volLight",
+            "name":"com.rkfqqqq.VOL",
             "releases":[
                 "https://rkfqqqq.github.io/Volumetric_Lights_2_v10.3.1.zip"
             ]
